@@ -41,12 +41,3 @@ The solution integrates **Deep Semantic Segmentation (ResNet-UNet)** with **Clas
 
 ---
 
-## 📂 Project Structure
-
-```bash
-📦 Terrain-Pathfinding-AI
- ┣ 📂 input
- ┃ ┣ 📂 train
- ┃ ┃ ┣ 📂 images      # Raw terrain images
- ┃ ┃ ┗ 📂 labels      # Ground truth JSONs
- ┣
